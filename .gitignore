@@ -1,0 +1,5 @@
+.venv/
+env/
+predict/
+pycache/
+__pycache__/
